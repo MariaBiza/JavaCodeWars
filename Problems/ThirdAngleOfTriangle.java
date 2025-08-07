@@ -1,3 +1,5 @@
+package Problems;
+
 public class ThirdAngleOfTriangle {
     public static void main(String[] args){
         System.out.println(otherAngle(40, 22));

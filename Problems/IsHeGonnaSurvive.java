@@ -1,3 +1,5 @@
+package Problems;
+
 public class IsHeGonnaSurvive {
     public static void main(String[] args) {
         boolean isHeroWin = hero(10, 5);

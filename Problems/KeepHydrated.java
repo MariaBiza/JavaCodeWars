@@ -1,3 +1,5 @@
+package Problems;
+
 public class KeepHydrated {
     public static void main(String[] args) {
         System.out.println(liters(12.83));

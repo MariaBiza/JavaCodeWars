@@ -1,3 +1,5 @@
+package Problems;
+
 public class TwiceAsOld {
     public static void main(String[] args) {
         System.out.println(twiceAsOld(30, 7));

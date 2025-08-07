@@ -1,3 +1,5 @@
+package Problems;
+
 public class SwitchItUp {
     public static void main(String[] args) {
         System.out.println(switchItUp(5));

@@ -1,3 +1,5 @@
+package Problems;
+
 public class BeginnerSeries2Clock {
 
     public static void main(String[] args) {

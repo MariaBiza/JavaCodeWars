@@ -1,3 +1,5 @@
+package Problems;
+
 public class FakeBinary {
     public static void main(String[] args) {
         String result = fakeBin("1873294012387");

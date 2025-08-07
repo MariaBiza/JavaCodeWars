@@ -1,3 +1,5 @@
+package Problems;
+
 public class ThinkfulLogicDrillsTrafficLight {
     public static void main(String[] args) {
         String current = updateLight("green");

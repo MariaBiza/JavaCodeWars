@@ -1,3 +1,5 @@
+package Problems;
+
 import java.util.Locale;
 
 public class SumOfTheFirstNthTermOfSeries {
