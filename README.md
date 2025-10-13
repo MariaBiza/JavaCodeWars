@@ -1,2 +1,2 @@
 # JavaCodeWars
-I solve problems in java from the CodeWars website.
+Solving problems in Java on the CodeWars platform.
